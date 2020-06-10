@@ -1,0 +1,5 @@
+en este proyecto aprendo a utilizar herencias en las clases
+polimorfismos, a utilizar el encapsulamiento y a reforzar
+el concepto de abstraccion con todo.
+
+Lo hago en java, javaScript, PHP y Phyton
